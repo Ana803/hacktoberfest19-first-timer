@@ -251,6 +251,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-f
 - Kerim Hakan Sırrı, Student - Konya, Turkey
 - Maria Michailidou, Automation Undergraduate -Greece
 - Palash Bauri, Inventor - Earth
+- Bia Nugas, Student - Rio de Janeiro, Brazil
 
 > (Add your name, profession and location right above this markdown comment)
 
